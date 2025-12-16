@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="A darkgrind band based in Rancho Cordova, Sacramento County, California, United States of America">
-    <meta name="robots" content="all">
-    <title><?= $title ? $title . ' - ' : '' ?>Br3wt4l</title>
+    <meta name="description" content="A grindcore band based in Rancho Cordova, Sacramento County, California, United States of America">
+    <meta name="robots" content="all">    
+    <meta name="author" content="Daniel Ohm, C0MPU73R PR09R4M CHARITY">
+    <title><?= $title ? $title . ' - ' : '' ?>BR3WT4L</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/css/jquery-ui.min.css" />
     <link rel="stylesheet" href="/css/site.css" />
@@ -35,7 +36,7 @@
         <a href="/" class="text-decoration-none">
             <img src="/images/logo.png" alt="BR3WT4L" class="header-image redirect" />
         </a>
-        <div class="header-text">Br3wt4l</div>
+        <div class="header-text">BR3WT4L</div>
     </div>
     <hr />
     <main role="main" class="pb-0">
@@ -43,7 +44,7 @@
     </main>
     <footer class="border-top footer text-muted">
         <div class="float-end me-3">
-            &copy; <?= date('Y') ?> - Br3wt4l
+            &copy; <?= date('Y') ?> - BR3WT4L
         </div>
     </footer>
     <script type="text/javascript" src="~/jquery.min.js"></script>
